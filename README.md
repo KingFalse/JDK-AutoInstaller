@@ -14,7 +14,7 @@ Windows环境下一键下载安装最新JDK，自动配置环境变量
     * 双击JDK-AutoInstaller-v1.0.bat脚本即可开始安装
     * 等待安装完成然后重启电脑即可
     
-## 视频演示：
+## V2视频演示：
 * YouTube&nbsp;:&nbsp;[https://youtu.be/_A5kCdUJA44](https://youtu.be/_A5kCdUJA44)
 * bilibili&nbsp;:&nbsp;[https://www.bilibili.com/video/av20686160/](https://www.bilibili.com/video/av20686160/)
 
