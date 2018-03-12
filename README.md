@@ -1,6 +1,11 @@
 # JDK-AutoInstaller
 Windows环境下一键下载安装最新JDK，自动配置环境变量
 
+    
+## V2视频演示：
+* YouTube&nbsp;:&nbsp;[https://youtu.be/_A5kCdUJA44](https://youtu.be/_A5kCdUJA44)
+* bilibili&nbsp;:&nbsp;[https://www.bilibili.com/video/av20686160/](https://www.bilibili.com/video/av20686160/)
+
 
 ## V2与V1版本的区别？
 * V1只是自动安装，V2增加了自动下载
@@ -13,11 +18,6 @@ Windows环境下一键下载安装最新JDK，自动配置环境变量
     * 将JDK-AutoInstaller-v1.0.bat跟JDK安装包放在同一目录
     * 双击JDK-AutoInstaller-v1.0.bat脚本即可开始安装
     * 等待安装完成然后重启电脑即可
-    
-## V2视频演示：
-* YouTube&nbsp;:&nbsp;[https://youtu.be/_A5kCdUJA44](https://youtu.be/_A5kCdUJA44)
-* bilibili&nbsp;:&nbsp;[https://www.bilibili.com/video/av20686160/](https://www.bilibili.com/video/av20686160/)
-
 
 ## 支持的操作系统？
 * win7 / win8.x / win10 
