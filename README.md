@@ -13,6 +13,11 @@ Windows环境下一键下载安装最新JDK，自动配置环境变量
     * 将JDK-AutoInstaller-v1.0.bat跟JDK安装包放在同一目录
     * 双击JDK-AutoInstaller-v1.0.bat脚本即可开始安装
     * 等待安装完成然后重启电脑即可
+    
+## 视频演示：
+* YouTube&nbsp;:&nbsp;[https://youtu.be/_A5kCdUJA44](https://youtu.be/_A5kCdUJA44)
+* bilibili&nbsp;:&nbsp;[https://www.bilibili.com/video/av20686160/](https://www.bilibili.com/video/av20686160/)
+
 
 ## 支持的操作系统？
 * win7 / win8.x / win10 
@@ -23,9 +28,9 @@ Windows环境下一键下载安装最新JDK，自动配置环境变量
 * Oracle JDK 8-9
 
 ## Git mirror：
-GitHub&nbsp;:&nbsp;[https://github.com/KingFalse/JDK-AutoInstaller](https://github.com/KingFalse/JDK-AutoInstaller)    
 
-GitEE&nbsp;&nbsp;:&nbsp;[https://gitee.com/Kagura/JDK-AutoInstaller](https://gitee.com/Kagura/JDK-AutoInstaller)
+* GitHub&nbsp;:&nbsp;[https://github.com/KingFalse/JDK-AutoInstaller](https://github.com/KingFalse/JDK-AutoInstaller)    
+* GitEE&nbsp;&nbsp;:&nbsp;[https://gitee.com/Kagura/JDK-AutoInstaller](https://gitee.com/Kagura/JDK-AutoInstaller)
 
 ## Q&A?
 ### Q1 : 默认安装目录?
